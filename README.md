@@ -1,2 +1,2 @@
 # Python-Excercises
-Cool random Python exercisesI built
+Cool random Python exercises I built
