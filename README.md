@@ -1,2 +1,2 @@
 # Python-Projects
-Cool random Python Projects I built
+Cool random Python projects I built
